@@ -1,0 +1,4 @@
+Criar uma aplicacao de teste com as funcionalidades de inclusao, alteracao e exclusao de registros, considerando somente 4 campos, sao eles: nome, data de nascimento, sexo e email. 
+O banco de dados sera postgree criado na nuvem railway. 
+A aplicacao sera web com frontend em flutter e backend em python. s rquvosdve er criaos nas subpastas correspondents.
+A aplicacao deve ter uma tela principal com uma listagem simples dos dados em uma tabela e na ultima coluna da tabela apresentar as opcoes de alteracao e exclusao para cada egistro. E criar um botao no inicio da tela para a funcao de inclusao. Me informe o que mais precisar de informacao para a criacao desta aplicacao web.
