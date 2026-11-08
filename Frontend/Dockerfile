@@ -1,5 +1,5 @@
 # Etapa 1: build do Flutter Web
-FROM ghcr.io/cirruslabs/flutter:stable AS build
+FROM ghcr.io/cirruslabs/flutter:3.44.0 AS build
 ARG API_URL
 WORKDIR /app
 COPY pubspec.* ./
